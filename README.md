@@ -23,5 +23,5 @@ Demo Video :
 https://youtu.be/V_JUIrEskc4
 
 Block Diagram : 
-
+![image](https://user-images.githubusercontent.com/70564918/96374866-154a7d00-1193-11eb-95d9-1864cbbe1ef3.png)
 
