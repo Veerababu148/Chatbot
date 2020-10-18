@@ -22,5 +22,12 @@ If the user selects Guess birthday game it is about enter birthday and month and
 Demo Video : 
 https://youtu.be/V_JUIrEskc4
 
-Block Diagram : ![image](https://user-images.githubusercontent.com/70564918/96374866-154a7d00-1193-11eb-95d9-1864cbbe1ef3.png)
+Block Diagram : 
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/70564918/96374866-154a7d00-1193-11eb-95d9-1864cbbe1ef3.png)
 
